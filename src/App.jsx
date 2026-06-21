@@ -120,6 +120,7 @@ import PenggunaUpdate from "./pages/penggunaupdate";
 import Karyawan from "./pages/karyawan"; 
 import KaryawanCreate from "./pages/insertkaryawan"; // Mengarah ke file insertkaryawan.jsx Anda
 import KaryawanUpdate from "./pages/karyawanupdate"; 
+import ListKaryawan from "./pages/listkaryawan";
 
 const App = () => {
   return (
